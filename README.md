@@ -1,3 +1,5 @@
+# letsencrypt_tool_for_macOS_Server
+
 I've posted this to provide a customized script I created to address the issue of Server.app not picking a new(ly) renewed Let's Encrypt SSL certificate.
 
 This is known to work with OS X Server (mac OS with supporting Server.app) 10.13, anything newer will very probably require some adjustments to work as intended.
